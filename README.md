@@ -33,7 +33,7 @@
 
 ---
 
-### Portfolio Website
+### Sahana S Angadi Portfolio
 - Personal portfolio built using **HTML**
 - Showcases skills and projects  
 
@@ -45,7 +45,7 @@
 
 ---
 
-### Spring Boot API
+### Employee Management System
 - Developed REST APIs using **Spring Boot**
 - Demonstrates backend development skills  
 
