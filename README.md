@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahana S Angadi</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | AI Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Java Developer | Software Tester</h3>
 
 ---
 
@@ -18,7 +18,7 @@
 - **Web:** HTML, CSS  
 - **Frameworks:** Spring Boot
 - **Testing Frameworks:** JUnit, Mockito  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code, Seleium, Postman, JIRA
 - **Concepts:** OOPs, Data Structures, Federated Learning  
 
 ---
